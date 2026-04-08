@@ -2,7 +2,7 @@
 
 **Full Stack Developer** — Dakar, Senegal
 
-Building and shipping products at [01Talent](https://github.com/01-edu) — from authentication systems and sync engines to game AI, WebAssembly sandboxes and frontend tooling.
+Building and shipping products at [01Talent](https://github.com/01-edu).
 
 ---
 
