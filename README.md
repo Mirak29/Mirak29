@@ -51,7 +51,7 @@ Building and shipping products at [01Talent](https://github.com/01-edu).
 ## At 01Talent
 
 **License Hub** — Infrastructure & deployment, auth system (OAuth2, magic links), license/participant sync engine, admin dashboard, CI/CD pipeline  
-**Tournament Engine** — Infrastructure & deployment, AI bots (Tic Tac Toe, Awale, Bomberman), WebAssembly execution sandbox, Pixi.js visualizers, DB optimization
+**Tournament Engine** — Infrastructure & deployment, CI/CD pipeline, AI bots (Tic Tac Toe, Awale, Bomberman), WebAssembly execution sandbox, Pixi.js visualizers, DB optimization
 
 ---
 
