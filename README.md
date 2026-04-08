@@ -2,8 +2,7 @@
 
 **Full Stack Developer** — Dakar, Senegal
 
-Building production systems at [01Talent](https://github.com/01-edu) — backend APIs, game AI, WebAssembly pipelines, blockchain protocols.  
-**2nd place** @ Blockchain in Dakar Hackathon 2024.
+Building and shipping products at [01Talent](https://github.com/01-edu) — from authentication systems and sync engines to game AI, WebAssembly sandboxes and frontend tooling.
 
 ---
 
