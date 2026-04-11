@@ -2,7 +2,7 @@
 
 **Full Stack Developer** — Dakar, Senegal
 
-Building and shipping products at [01Talent](https://github.com/01-edu).
+Building and shipping products at [01Edu](https://github.com/01-edu).
 
 ---
 
